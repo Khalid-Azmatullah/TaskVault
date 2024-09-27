@@ -5,7 +5,7 @@ Task Vault is a productivity tool for myself for quick startup of my required pr
 
 ### Preview of exit command:
 
-[Click Here To see the Preview!](exit_video.mp4)
+archive/exit_video.mp4
 
 
 
