@@ -1,7 +1,7 @@
 # Task Vault Portable
 
 > [!IMPORTANT]
-> For Embed Version Read [EmbedRD.md](tsv-embed\README.md)
+> For Embed Version Read [EmbedRD.md](tsv-embed/README.md)
 
 Task Vault Portable is a multi-tasking tool for operating simple tasks from one window.
 
