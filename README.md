@@ -34,4 +34,3 @@ exit command for exiting the application:
 ```
 exit
 ```
-## This project is completed.
