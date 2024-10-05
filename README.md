@@ -1,9 +1,8 @@
 # Task Vault Portable
-
-<h1>
-<img src="lib/cool_emoji.svg" width="30">
-</h1>
 TaskVault is now integrated in [Curvv](https://github.com/Khalid-Azmatullah/curvv) package.
+
+<img src="lib/cool_emoji.svg" width="80">
+
 
 
 Task Vault Portable is a multi-tasking tool for operating simple tasks from one window.
