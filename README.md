@@ -1,7 +1,10 @@
 # Task Vault Portable
 
-> [!IMPORTANT]
-> For Embed Version Read [EmbedRD.md](tsv-embed/README.md)
+<h1>
+<img src="lib/cool_emoji.svg" width="30">
+</h1>
+TaskVault is now integrated in [Curvv](https://github.com/Khalid-Azmatullah/curvv) package.
+
 
 Task Vault Portable is a multi-tasking tool for operating simple tasks from one window.
 
@@ -31,10 +34,13 @@ Feel free to explore all these commands and do provide feedback!
 
 Last Updated:
 ```
-27/09/2024
+05/10/2024
 ```
 
 Current Version:
 ```
 0.0.2
 ```
+
+> [!IMPORTANT]
+> For Embed Version Read [EmbedRD.md](tsv-embed/README.md)
